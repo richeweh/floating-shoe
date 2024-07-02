@@ -5,11 +5,11 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "drei": "^0.0.45",
+    "drei": "^2.2.21",
     "react": "17.0.1",
     "react-colorful": "4.4.4",
     "react-dom": "17.0.1",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^3.0.1",
     "react-three-fiber": "5.3.10",
     "three": "^0.166.0",
     "valtio": "0.4.8"
